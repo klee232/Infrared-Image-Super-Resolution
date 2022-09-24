@@ -12,4 +12,5 @@ https://ieeexplore.ieee.org/document/9621868
 Edge Detection Cascaded with Simplified WDSR of IR Super Resolution:
 https://ieeexplore.ieee.org/document/9538439
 ## Contents
+model: all deep learning models that have been constructed
 
